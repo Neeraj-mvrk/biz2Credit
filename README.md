@@ -12,3 +12,5 @@ To Run this project
 3.This module read a customer records in a text file (customers.txt) and convert that data to JSON format for further process.
 
 4.Knn-sphere library is used to get the (lat,long) points which are within the range of 100km of Dublin
+
+5.EJS is used to render the customer data in to HTML.
