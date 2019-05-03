@@ -1,0 +1,12 @@
+<html>
+  <head><title>Biz2Credit</title></head>
+  <body>
+    <h2>Full list of customers and output the names and
+        user ids of matching customers (within 100km), sorted by User ID (ascending).</h2>
+    <ul>
+        <% users.forEach(function(user){ %>
+      <li><%= user.user_id +'  '+user.name %></li>    
+        <% })%>
+      </ul>
+  </body>
+</html>
