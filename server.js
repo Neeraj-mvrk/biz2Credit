@@ -12,7 +12,7 @@ app.get('/', function(req, res){
 });
 
 /**
- * Read file from locatrion and get the required data
+ * Read file from location and get the required data
  */
 let rawdata = fs.readFileSync('./views/Customers _Assignment_Coding Challenge (Upto 6 Years) (2).txt');  
 rawdata=rawdata.toString();
