@@ -10,15 +10,15 @@ Run npm install(it will install all the packages related to this module) and tha
 ```bash
 npm install 
 ```
-
-## Usage
-
-```python
-This module read a customers records from a text file (customers.txt) and convert that data to JSON format for further process.
 ```bash
 sphere-knn   
 Knn-sphere package is used to swiftly look up which of those points are near a given latitude, longitude pair.
 ```
+## Usage
+
+```python
+This module read a customers records from a text file (customers.txt) 
+and convert that data to JSON format for further process.
 Knn-sphere library is used to get the (lat,long) points which are within the range of 100km of Dublin
 EJS is used to render the customer data in to HTML.
 ```
