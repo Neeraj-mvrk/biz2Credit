@@ -7,10 +7,8 @@ To Run this project
 
 1.Clone this repository in your system.
 
-2.Run npm install(it will install all the packages related to this module).
+2.Run npm install(it will install all the packages related to this module) and that's it you get all the customer within 100km range of Dublin.
 
-3.And that's it you get all the customer within 100km range of Dublin.
+3.This module read a customer records in a text file (customers.txt) and convert that data to JSON format for further process.
 
-4.This module read a customer records in a text file (customers.txt) and convert that data to JSON format for further process.
-
-5.Knn-sphere library is used to get the (lat,long) points which are within the range of 100km of Dublin
+4.Knn-sphere library is used to get the (lat,long) points which are within the range of 100km of Dublin
